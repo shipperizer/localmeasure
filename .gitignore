@@ -1,0 +1,14 @@
+# OS Specific
+**/.DS_Store
+
+# Python Compilation
+**.pyc
+**/__pycache__
+
+# Coverage.py
+**/.coverage
+**/htmlcov/
+
+
+# Test
+**/.cache
